@@ -5,12 +5,12 @@
  * 
  * Exercício LivroPrateleiras
  * 
- * Classe Livro
+ * Classe Titular
  * 
  */
 
 package projetoLivroPrateleiras;
 
-public class Livro {
+public class Titular {
 
 }
